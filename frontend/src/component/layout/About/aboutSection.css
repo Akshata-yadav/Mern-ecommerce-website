@@ -1,0 +1,32 @@
+.heading{
+    text-align: center;
+    font-size:25px;
+    padding:25px;
+}
+.para{
+    text-align: center;
+    font-size:20px;
+    padding:20px;
+    
+    margin-bottom: 30px;
+    margin-right: 80px;
+    margin-left: 80px;
+
+}
+
+.hello{
+    text-align: center;
+    font-size:25px;
+    padding:25px;
+}
+.world{
+    text-align: center;
+    font-size:20px;
+    padding:20px;
+    
+    margin-bottom: 30px;
+    margin-right: 80px;
+    margin-left: 80px;
+
+}
+
